@@ -56,4 +56,4 @@ console.log(me)
 */
 
 me.favoriteColor = 'Black';
-console.log(me);
+console.log('5. This is the updated "me" object', me);
