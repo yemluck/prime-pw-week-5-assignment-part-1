@@ -55,3 +55,5 @@ console.log(me)
   - Console.log your object
 */
 
+me.favoriteColor = 'Black';
+console.log(me);
